@@ -1,1 +1,1 @@
-# Smart-Email-Assistant
+# AI-Smart-Email-Assistant
