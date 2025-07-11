@@ -18,6 +18,9 @@ An AI-powered Smart Email Assistant that automatically generates contextual emai
 ### Clone the repository
     git clone https://github.com/Ravicv168/AI-Smart-Email-Assistant.git
 
+### Configure Google Gemini API Key
+    Edit application.properties
+    gemini.api.key=YOUR_GEMINI_API_KEY
   
 ### Build the project using Maven
     cd SmartEmailAssistant
@@ -28,3 +31,11 @@ An AI-powered Smart Email Assistant that automatically generates contextual emai
 
 ## API Endpoints
 - To execute your code - POST /api/email/generate
+
+# Chrome Extension Setup
+- Go to extension/ folder
+- Open Chrome and navigate to chrome://extensions
+- Enable Developer Mode.
+- Click Load unpacked and select the extension folder
+- Now open Gmail and click on any Reply button
+  You will see an "AI Reply" button next to it. Click on it to generate an automatic reply using Google Gemini.
