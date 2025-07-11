@@ -13,3 +13,18 @@ An AI-powered Smart Email Assistant that automatically generates contextual emai
 - AI Engine (Google Gemini API)
 - Frontend JavaScript (Chrome Extension)
 - Build Tool (Maven)
+
+## Installation
+### Clone the repository
+    git clone https://github.com/Ravicv168/AI-Smart-Email-Assistant.git
+
+  
+### Build the project using Maven
+    cd SmartEmailAssistant
+    mvn clean install
+
+### Run the application use:
+    mvn spring-boot:run
+
+## API Endpoints
+- To execute your code - POST /api/email/generate
