@@ -37,5 +37,4 @@ An AI-powered Smart Email Assistant that automatically generates contextual emai
 - Open Chrome and navigate to chrome://extensions
 - Enable Developer Mode.
 - Click Load unpacked and select the extension folder
-- Now open Gmail and click on any Reply button
-  You will see an "AI Reply" button next to it. Click on it to generate an automatic reply using Google Gemini.
+- Now open Gmail and click on any Reply button. You will see an "AI Reply" button. Click on it to generate an automatic reply using Google Gemini.
