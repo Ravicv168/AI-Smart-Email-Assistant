@@ -2,11 +2,12 @@
 
 An AI-powered Smart Email Assistant that automatically generates contextual email replies inside Gmail using the Google Gemini API, with a Spring Boot backend and a Chrome Extension that seamlessly integrates into the Gmail interface.
 
-## Features
-- Generates professional and personalized email replies automatically.
-- Uses Google Gemini API for natural language generation.
-- Smart Chrome Extension that adds an AI-powered reply button inside Gmail.
-- REST API built with Spring Boot to handle prompt processing and Gemini interaction.
+## ✨ Features
+
+- 📝 Generates **professional and personalized email replies** automatically.
+- 🤖 Uses **Google Gemini API** for natural language generation.
+- 🧩 Smart **Chrome Extension** that adds that adds an AI-powered reply button inside Gmail.
+- 🌐 REST API built with **Spring Boot** to handle prompt processing and Gemini interaction.
 
 ## 🛠️ Technologies Used
 - Backend (Java, SpringBoot)
