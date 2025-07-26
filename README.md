@@ -1,4 +1,4 @@
-# Smart Email Assistant
+# 🤖 Smart Email Assistant
 
 An AI-powered Smart Email Assistant that automatically generates contextual email replies inside Gmail using the Google Gemini API, with a Spring Boot backend and a Chrome Extension that seamlessly integrates into the Gmail interface.
 
@@ -8,17 +8,17 @@ An AI-powered Smart Email Assistant that automatically generates contextual emai
 - Smart Chrome Extension that adds an AI-powered reply button inside Gmail.
 - REST API built with Spring Boot to handle prompt processing and Gemini interaction.
 
-## Technologies Used
+## 🛠️ Technologies Used
 - Backend (Java, SpringBoot)
 - AI Engine (Google Gemini API)
 - Frontend JavaScript (Chrome Extension)
 - Build Tool (Maven)
 
-## Installation
+## 💾 Installation
 ### Clone the repository
     git clone https://github.com/Ravicv168/AI-Smart-Email-Assistant.git
 
-### Configure Google Gemini API Key
+### ⚙️ Configure Google Gemini API Key
     Edit application.properties
     gemini.api.key=YOUR_GEMINI_API_KEY
   
@@ -29,10 +29,10 @@ An AI-powered Smart Email Assistant that automatically generates contextual emai
 ### Run the application use:
     mvn spring-boot:run
 
-## API Endpoints
+## 🌐 API Endpoints
 - To execute your code - POST /api/email/generate
 
-# Chrome Extension Setup
+# 🧩 Chrome Extension Setup
 - Go to extension/ folder
 - Open Chrome and navigate to chrome://extensions
 - Enable Developer Mode.
